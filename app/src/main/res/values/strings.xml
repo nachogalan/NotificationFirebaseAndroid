@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationFirebaseAndroid</string>
+    <string name="channel_name">FirstChannel</string>
+    <string name="channel_description">FirstChannelDescription</string>
+</resources>

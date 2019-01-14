@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "982578870170",
+    "firebase_url": "https://notificationpushandroid-1d330.firebaseio.com",
+    "project_id": "notificationpushandroid-1d330",
+    "storage_bucket": "notificationpushandroid-1d330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982578870170:android:39de3fb05c288119",
+        "android_client_info": {
+          "package_name": "com.example.nacho.notificationfirebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982578870170-ijqib240s56pmnrgr2cs8p02stclbf85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASS05IuF5lstU5-xx9xdkRl3ZoqFDZkVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
